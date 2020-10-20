@@ -1,5 +1,5 @@
 # LabTI
-## Welcom to Repository LabTI
+## Welcome to Repository LabTI
 Repository ini berisikan tugas saya untuk praktikum laboratorium Teknik Informatika Universitas Gundarma.
 Repository ini terdiri dari beberapa mata kuliah antara lain :
 1. Grafika Komputer 1
